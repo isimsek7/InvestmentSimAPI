@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CryptoAnalyzer.Data\CryptoAnalyzer.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Operations\Investments\" />
+    <None Remove="Operations\Investments\Dtos\" />
+    <None Remove="Operations\Portfolios\" />
+    <None Remove="Operations\Portfolios\Dtos\" />
+    <None Remove="TransactionHistories\" />
+    <None Remove="InvestmentGroups\" />
+    <None Remove="InvestmentGroups\Dtos\" />
+    <None Remove="UserInvestmentGroups\" />
+    <None Remove="UserInvestmentGroups\Dtos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Operations\Investments\" />
+    <Folder Include="Operations\Investments\Dtos\" />
+    <Folder Include="Operations\Portfolios\" />
+    <Folder Include="Operations\Portfolios\Dtos\" />
+    <Folder Include="TransactionHistories\" />
+    <Folder Include="InvestmentGroups\" />
+    <Folder Include="InvestmentGroups\Dtos\" />
+    <Folder Include="UserInvestmentGroups\" />
+    <Folder Include="UserInvestmentGroups\Dtos\" />
+  </ItemGroup>
+</Project>

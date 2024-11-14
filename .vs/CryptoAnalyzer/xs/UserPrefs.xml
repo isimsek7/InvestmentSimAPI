@@ -1,0 +1,94 @@
+﻿<Properties StartupConfiguration="{220171EE-BAA2-477B-A696-305AAEA7D546}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CryptoAnalyzer.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CryptoAnalyzer.WebApi/Controllers/PortfoliosController.cs">
+    <Files>
+      <File FileName="CryptoAnalyzer.Business/Operations/Investments/IInvestmentService.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Investments/InvestmentService.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Controllers/InvestmentsController.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/UserEntity.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/BaseEntity.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Controllers/AuthController.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Controllers/SettingsController.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Models/RegisterRequest.cs" />
+      <File FileName="CryptoAnalyzer.Data/Repositories/Repository.cs" />
+      <File FileName="CryptoAnalyzer.Data/Repositories/IRepository.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Jwt/JwtClaimNames.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Jwt/JwtDto.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Jwt/JwtHelper.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Investments/Dtos/BuyInvestmentDto.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/InvestmentEntity.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/PortfolioEntity.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Investments/Dtos/SellInvestmentDto.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Portfolios/IPortfolioService.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Portfolios/PortfolioService.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Portfolios/Dtos/CreatePortfolioDto.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Controllers/PortfoliosController.cs" Line="1" Column="1" />
+      <File FileName="CryptoAnalyzer.WebApi/Program.cs" />
+      <File FileName="CryptoAnalyzer.Business/DataProtection/DataProtection.cs" />
+      <File FileName="CryptoAnalyzer.Business/DataProtection/IDataProtection.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/InvestmentGroupEntity.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/UserInvestmentGroupEntity.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/TransactionHistoryEntity.cs" />
+      <File FileName="CryptoAnalyzer.Data/Entities/SettingEntity.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Middlewares/MaintenanceMiddleware.cs" />
+      <File FileName="CryptoAnalyzer.Data/UnitOfWork/UnitOfWork.cs" />
+      <File FileName="CryptoAnalyzer.Data/Context/CryptoAnalyzerDbContext.cs" />
+      <File FileName="CryptoAnalyzer.Business/Settings/SettingManager.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/User/Dtos/UserInfoDto.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Models/LoginRequest.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Models/LoginResponse.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/User/UserManager.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/User/Dtos/AddUserDto.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Controllers/TransactionController.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/Investments/Dtos/UpdateInvestmentDto.cs" />
+      <File FileName="CryptoAnalyzer.Business/TransactionHistories/TransactionHistoryManager.cs" />
+      <File FileName="CryptoAnalyzer.Business/TransactionHistories/ITransactionHistoryService.cs" />
+      <File FileName="CryptoAnalyzer.Business/InvestmentGroups/IInvestmentGroupService.cs" />
+      <File FileName="CryptoAnalyzer.Business/InvestmentGroups/InvestmentGroupManager.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Controllers/InvestmentGroupsController.cs" />
+      <File FileName="CryptoAnalyzer.Business/InvestmentGroups/Dtos/CreateGroupDto.cs" />
+      <File FileName="CryptoAnalyzer.Business/UserInvestmentGroups/Dtos/UserInvestmentGroupDto.cs" />
+      <File FileName="CryptoAnalyzer.Business/UserInvestmentGroups/IUserInvestmentGroupsService.cs" />
+      <File FileName="CryptoAnalyzer.Business/UserInvestmentGroups/UserInvestmentGroupsManager.cs" />
+      <File FileName="CryptoAnalyzer.Data/Enums/UserType.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/User/Dtos/DepositDto.cs" />
+      <File FileName="CryptoAnalyzer.Business/Operations/User/IUserService.cs" />
+      <File FileName="CryptoAnalyzer.Business/TransactionHistories/Dtos/EditTransactionDto.cs" />
+      <File FileName="CryptoAnalyzer.Business/Types/ServiceMessage.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Filters/TimeControlFilter.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/Middlewares/MiddlewareExtensions.cs" />
+      <File FileName="CryptoAnalyzer.WebApi/appsettings.json" />
+      <File FileName="CryptoAnalyzer.WebApi/Middlewares/ExceptionHandlerMiddleware.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CryptoAnalyzer" expanded="True">
+            <Node name="CryptoAnalyzer.Business" expanded="True">
+              <Node name="Operations" expanded="True">
+                <Node name="Investments" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="CryptoAnalyzer.Data" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="CryptoAnalyzer.WebApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PortfoliosController.cs" selected="True" />
+              </Node>
+              <Node name="Middlewares" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

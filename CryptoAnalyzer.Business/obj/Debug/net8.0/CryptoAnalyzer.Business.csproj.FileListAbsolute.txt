@@ -1,0 +1,16 @@
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/bin/Debug/net8.0/CryptoAnalyzer.Business.deps.json
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/bin/Debug/net8.0/CryptoAnalyzer.Business.dll
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/bin/Debug/net8.0/CryptoAnalyzer.Business.pdb
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/bin/Debug/net8.0/CryptoAnalyzer.Data.dll
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/bin/Debug/net8.0/CryptoAnalyzer.Data.pdb
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.csproj.AssemblyReference.cache
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.AssemblyInfoInputs.cache
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.AssemblyInfo.cs
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.csproj.CoreCompileInputs.cache
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.sourcelink.json
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.csproj.CopyComplete
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.dll
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/refint/CryptoAnalyzer.Business.dll
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/CryptoAnalyzer.Business.pdb
+/Users/ismailsimsek/Desktop/InvestmentSimApp/CryptoAnalyzer.Business/obj/Debug/net8.0/ref/CryptoAnalyzer.Business.dll

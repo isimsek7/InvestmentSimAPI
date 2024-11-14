@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FbPArc/fpeAGWGkhT7dZGH2FF62oMnAsNiqr9ex3GYk=",
+  "Source": "CryptoAnalyzer.WebApi",
+  "BasePath": "_content/CryptoAnalyzer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
